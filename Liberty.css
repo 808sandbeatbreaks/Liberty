@@ -1,0 +1,19 @@
+body {
+    background-color:  blue;
+}
+
+h1, p, a {
+    color:cornsilk;
+    margin-left: 20px;
+}
+
+p1 {
+    color: red;
+    font-size: 40px;
+}
+
+p3 {
+    color:gold;
+    font-size: 25px;
+}
+
